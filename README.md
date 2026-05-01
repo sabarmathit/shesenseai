@@ -17,7 +17,7 @@ It uses smart route analysis, voice-triggered emergency alerts, and real-time mo
 - Machine Learning  
 - AI-based detection
 ## project structure
--shesenseai/|----ps.py|----README.md
+-shesenseai/|----ps.py|----README.md|images/output.jpeg|output1.jpeg|output2.jpeg|output3.jprg|output4.jpeg|output5.jpeg|output6.jpeg
 
 - ## ▶️ How to Run
 1. Install Python  
