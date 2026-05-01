@@ -16,6 +16,15 @@ It uses smart route analysis, voice-triggered emergency alerts, and real-time mo
 - Python  
 - Machine Learning  
 - AI-based detection
+## screenshots
+-![Output](images/output.jpeg)
+-![Output](images/output1.jpeg)
+-![Output](images/output2.jpeg)
+-![Output](images/output3.jpeg)
+-![Output](images/output4.jpeg)
+-![Output](images/output5.jpeg)
+-![Output](images/output6.jpeg)
+
 ## project structure
 -shesenseai/|----ps.py|----README.md|images/output.jpeg|output1.jpeg|output2.jpeg|output3.jprg|output4.jpeg|output5.jpeg|output6.jpeg
 
@@ -28,6 +37,5 @@ It uses smart route analysis, voice-triggered emergency alerts, and real-time mo
 - Mobile app integration  
 - Real-time GPS tracking  
 - Deep learning enhancements  
-
 ## 👩‍💻 Author
 Sabarmathi
